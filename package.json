@@ -1,0 +1,20 @@
+{
+  "name": "action-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DabenW/action-recorder.git"
+  },
+  "keywords": [],
+  "author": "Daben Wang <wdb747534116@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DabenW/action-recorder/issues"
+  },
+  "homepage": "https://github.com/DabenW/action-recorder#readme"
+}
