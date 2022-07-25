@@ -1,6 +1,6 @@
 {
   "name": "cloudide-action-recorder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DabenW/action-recorder/issues"
   },
-  "homepage": "https://github.com/DabenW/action-recorder#readme"
+  "homepage": "https://github.com/DabenW/action-recorder#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
